@@ -8150,7 +8150,8 @@ body {
   font-size: 17px;
   line-height: 1.8;
   font-weight: 400;
-  color: gray; }
+  color: black;
+  }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8172,8 +8173,9 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: rgba(0, 0, 0, 0.7);
-  font-weight: 400; }
+  color: rgb(0 0 0 / 70%);
+  font-weight: 400;
+  }
 
 .wrap {
   position: relative;
@@ -8460,7 +8462,8 @@ h1, h2, h3, h4, h5,
   .slider-text p {
     font-size: 18px;
     line-height: 1.5;
-    color: rgba(255, 255, 255, 0.8); }
+    color: rgb(255 255 255 / 80%);
+    }
   .slider-text .breadcrumbs {
     font-size: 14px;
     margin-bottom: 20px;
