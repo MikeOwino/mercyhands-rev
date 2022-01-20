@@ -8210,10 +8210,11 @@ h1, h2, h3, h4, h5,
   }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000000 !important;
+      background: #ffffff !important;
       position: relative;
       top: 0;
-      padding: 10px 15px; } }
+      padding: 10px 15px;
+      } }
   .ftco-navbar-light .navbar-brand {
     color: #000;
     }
@@ -8222,7 +8223,8 @@ h1, h2, h3, h4, h5,
       }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
-        color: #fff; } }
+        color: #040000;
+        } }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
@@ -8297,7 +8299,8 @@ h1, h2, h3, h4, h5,
     }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-      color: #cbb88c; } }
+      color: #00adef;
+      } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
