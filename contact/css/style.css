@@ -9697,7 +9697,8 @@ textarea.form-control {
     /* Firefox 18- */
     color: rgba(0, 0, 0, 0.5) !important; }
   .contactForm .form-control:focus, .contactForm .form-control:active {
-    border-color: #cbb88c !important; }
+    border-color: #00adef !important;
+    }
 
 .contactForm textarea.form-control {
   height: inherit !important; }
