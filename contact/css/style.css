@@ -9676,14 +9676,15 @@ textarea.form-control {
   padding: 10px 20px; }
 
 .contactForm .form-control {
-  height: 36px;
+  height: 11px;
   background: #fff;
   color: rgba(0, 0, 0, 0.5);
   font-size: 14px;
   border-radius: 2px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
   .contactForm .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     color: rgba(0, 0, 0, 0.5) !important; }
